@@ -12,5 +12,6 @@ setup(
     long_description=open('README.md').read(),
     install_requires=[
         "RPi.GPIO >= 0.5.5",
+        "python-firebase >= 1.2"
     ],
 )
